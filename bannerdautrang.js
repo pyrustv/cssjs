@@ -1,4 +1,4 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
+//please contact me giaiphapthuonghieu.org@gmail.com
 //website http://giaiphapthuonghieu.vn or http://faceseo.vn
 
 (function($) {
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2htbAFx' target='_blank'><img src='https://4.bp.blogspot.com/-OPlHuDTvSL4/Vw3RX07WcMI/AAAAAAAAAqk/r8cYFrnZryENP-XCVbmXRlZc5EL9-Jmvg/s640/river-city-nha-ben-song.jpg' width='500px'/><br/>nha quan 7</a>. Moigioi nha dat. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2htbAFx' target='_blank'><img src='http://image.24h.com.vn/upload/4-2016/images/2016-12-27/1482835793-148283363969975-vietnam.jpg' width='500px'/><br/>Can hoi Vin quan 7</a>. Hotline 0903125947. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
